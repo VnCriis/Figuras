@@ -1,5 +1,7 @@
 public class Rectangulo extends Cuadrilateros{
-    public Rectangulo(String name) {
-        super(name);
+
+
+    public Rectangulo(String name, int sidesBase, int sidesHight) {
+        super(name, sidesBase, sidesHight);
     }
 }
