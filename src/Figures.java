@@ -4,5 +4,5 @@ public class Figures {
     public Figures(String name) {
         this.name = name;
     }
-    
+
 }
